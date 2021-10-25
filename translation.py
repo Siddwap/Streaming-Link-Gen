@@ -15,4 +15,4 @@ check /help to know more."""
 send media - Stream telegram files in Website.
 /status - Check bot usage.
 """
-Created By Shuaib Siddiqui
+
